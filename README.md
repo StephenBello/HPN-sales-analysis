@@ -42,3 +42,5 @@ The datasets used for this project are:
   - Refund rate
   - Return analysis
   - Creating a dynamic selection and headings
+
+For full details of the project coupled with the DAX code, click [here](https://mavenanalytics.io/project/9842)
